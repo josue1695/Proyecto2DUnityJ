@@ -9,6 +9,8 @@ public class Movimiento : MonoBehaviour
     public float y=0.05f;
     public int puntos = 0;
     public int vidas = 3;
+    public float salto;
+    public float marcador;
     Animator anim;
 
     // Start is called before the first frame update
