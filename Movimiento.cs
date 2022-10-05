@@ -16,7 +16,7 @@ public class Movimiento : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        Debug.Log("Inicio");
+       // Debug.Log("Inicio");
         anim=GetComponent<Animator>();
     }
 
